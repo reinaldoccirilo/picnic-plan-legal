@@ -13,6 +13,7 @@ quais são os teus direitos ao abrigo do Regulamento Geral sobre a Proteção de
 (RGPD) e da Lei n.º 58/2019.
 
 **Responsável pelo tratamento:** Reinaldo Cirilo.
+
 **Contacto para privacidade:** [shishagotham@gmail.com](mailto:shishagotham@gmail.com).
 
 ## 1. Que dados tratamos
