@@ -65,6 +65,7 @@ piquenique, os lembretes locais e as preferências da app (por exemplo, o idioma
 | Serviço | O que recebe | Para quê |
 |---|---|---|
 | **Supabase** (alojamento da base de dados e autenticação, região UE — Paris, França) | todos os dados de conta e conteúdo da secção 1 | guardar e sincronizar os dados |
+| **Resend** (envio de email) | o teu email e o código de acesso | enviar o código para entrares na app |
 | **Google** / **Apple** | o pedido de início de sessão | entrar com Google ou Apple (só se escolheres) |
 | **Open-Meteo** | as coordenadas do piquenique | previsão do tempo |
 | **OpenStreetMap / Overpass API** | as coordenadas da zona do mapa | encontrar parques perto |
